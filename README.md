@@ -1,7 +1,7 @@
 # HeartSync 
 <img src="assets/ic_launcher.png" width="150" alt="App Logo"/>
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/yourusername/yourrepo/releases/latest)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/PINAK-WORK/HeartSync/releases/latest)
 
 ### ✨ About
 A private app for couples to visualize their emotional bond. Features include real-time pulsing heart interactions and an interactive dashboard with daily, weekly, and monthly charts to track your connection history.
@@ -10,8 +10,9 @@ A private app for couples to visualize their emotional bond. Features include re
 
 ## 📊 Repository Status
 
-![GitHub Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Views&query=count&url=https://api.github.com/repos/PINAK-WORK/HeartSync/traffic/views&style=for-the-badge&logo=eye&logoColor=white)
-![GitHub Downloads](https://img.shields.io/github/downloads/yourusername/yourrepo/total?style=for-the-badge&logo=github&logoColor=white&label=Total%20Downloads&color=orange)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=PINAK-WORK.HeartSync&label=Total%20Views&countColor=%232ccce4&style=for-the-badge)
+![GitHub Downloads](https://img.shields.io/github/downloads/PINAK-WORK/HeartSync/total?style=for-the-badge&logo=github&logoColor=white&label=Total%20Downloads&color=orange)
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <br>
