@@ -10,10 +10,9 @@ A private app for couples to visualize their emotional bond. Features include re
 
 ## 📊 Repository Status
 
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=PINAK-WORK.HeartSync&label=Total%20Views&countColor=%232ccce4&style=for-the-badge)
-![GitHub Downloads](https://img.shields.io/github/downloads/PINAK-WORK/HeartSync/total?style=for-the-badge&logo=github&logoColor=white&label=Total%20Downloads&color=orange)
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Total Views](https://api.visitorbadge.io/api/visitors?path=PINAK-WORK.HeartSync&label=Total%20Views&countColor=%2300D9FF&style=for-the-badge)
+![GitHub Downloads](https://img.shields.io/github/downloads/PINAK-WORK/HeartSync/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&color=00D9FF)
+![Platform](https://img.shields.io/badge/Platform-Android-00D9FF?style=for-the-badge&logo=android&logoColor=white)
 
 <br>
 
